@@ -1,0 +1,8 @@
+tipe 1 --> Organic (O) ; Recycleable (R)
+tipe 2 --> Organic ((O); Recycleable (R); Electric-component (E)
+tipe 3 --> Carton; Metal; Plastic; Glass (Vidrio)
+tipe 4 --> Non-Organic mostly
+tipe 5 --> Recycleable Trash, already sorted into the type but not really specific - just the general type like cardboard; glass; metal; paper; plastic; trash(combination of food wrapper/container [-like paper, can, plastic wrap, etc.-] and daily hygenic product [-tooth brush, etc.-]).
+tipe 6 --> organic; recycleable
+
+Note : I recommend use combination of tipe 3 and Organic , tipe 4 and Organic, or tipe 5 and Organic, or just use tipe 6. 
